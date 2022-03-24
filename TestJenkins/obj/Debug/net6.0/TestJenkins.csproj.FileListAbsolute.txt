@@ -1,0 +1,15 @@
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.exe
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.deps.json
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.runtimeconfig.json
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.dll
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\bin\Debug\net6.0\TestJenkins.pdb
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.csproj.AssemblyReference.cache
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.AssemblyInfoInputs.cache
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.AssemblyInfo.cs
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.csproj.CoreCompileInputs.cache
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.dll
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\refint\TestJenkins.dll
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.pdb
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\TestJenkins.genruntimeconfig.cache
+C:\Users\fadin\source\repos\TestJenkins\TestJenkins\obj\Debug\net6.0\ref\TestJenkins.dll
